@@ -92,6 +92,7 @@ document.querySelectorAll('[data-person]').forEach(button => button.addEventList
 detailContent.addEventListener('click', event => {
   const button = event.target.closest('[data-consult]');
   if (!button) return;
+  lastDialogTrigger = null;
   closeDialog();
   if (button.dataset.consult) document.getElementById('practice-select').value = button.dataset.consult;
   document.getElementById('contact').scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'instant' : 'smooth' });
