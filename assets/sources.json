@@ -1,0 +1,77 @@
+[
+  {
+    "file": "guy-smith.webp",
+    "name": "Guy Smith",
+    "role": "Managing Partner",
+    "source_url": "https://static.wixstatic.com/media/ca3a74_b6387c15560b49cd982c9764293a2ebf~mv2.jpg",
+    "source_page": "https://www.crowandsmithlaw.com/aboutus/our-team",
+    "original_dimensions": [
+      789,
+      1014
+    ],
+    "dimensions": [
+      789,
+      1014
+    ]
+  },
+  {
+    "file": "kenneth-crow.webp",
+    "name": "Kenneth Crow",
+    "role": "Senior Partner",
+    "source_url": "https://static.wixstatic.com/media/5ec41b_f602f45fdb1d4574a420aa6a4680a44a~mv2.jpeg",
+    "source_page": "https://www.crowandsmithlaw.com/aboutus/our-team",
+    "original_dimensions": [
+      2048,
+      2732
+    ],
+    "dimensions": [
+      1049,
+      1400
+    ]
+  },
+  {
+    "file": "wendy-paschal.webp",
+    "name": "Wendy Paschal",
+    "role": "Office Manager",
+    "source_url": "https://static.wixstatic.com/media/ca3a74_0577ea28a2254a3891b4736008cb02fa~mv2.jpeg",
+    "source_page": "https://www.crowandsmithlaw.com/aboutus/our-team",
+    "original_dimensions": [
+      4031,
+      3225
+    ],
+    "dimensions": [
+      1100,
+      880
+    ]
+  },
+  {
+    "file": "amanda-wagner.webp",
+    "name": "Amanda Wagner",
+    "role": "Paralegal",
+    "source_url": "https://static.wixstatic.com/media/ca3a74_80bcfebff22f4a3c90f7ad5193aeed3c~mv2.jpg",
+    "source_page": "https://www.crowandsmithlaw.com/aboutus/our-team",
+    "original_dimensions": [
+      2783,
+      3480
+    ],
+    "dimensions": [
+      1100,
+      1375
+    ]
+  },
+  {
+    "file": "courthouse.webp",
+    "name": "Courthouse",
+    "role": "Current website hero image; location unverified",
+    "source_url": "https://static.wixstatic.com/media/0e4af9d92b404903b674276377301988.jpg",
+    "source_page": "https://www.crowandsmithlaw.com/",
+    "original_dimensions": [
+      5616,
+      3744
+    ],
+    "dimensions": [
+      2200,
+      1467
+    ]
+  }
+]
